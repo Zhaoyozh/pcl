@@ -1,0 +1,53 @@
+13:30:20.778 I <4 · Logger> [Logger] 开始轮转日志文件
+13:30:20.809 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+13:30:20.825 I [Application] 程序版本：正式版 2.13.1.1 (408)
+13:30:20.825 I [Application] 识别码：D453-E60A-7E24-003B
+13:30:20.825 I [Application] 程序路径：D:\PCL\Plain Craft Launcher 2.exe
+13:30:20.825 I [Application] 系统编码：gb2312 (936, GBK=True)
+13:30:20.825 I [Application] 管理员权限：True
+13:30:20.825 I [Application] 第一阶段加载用时：70 ms
+13:30:20.919 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+13:30:20.934 I [ModSecret] 刷新主题：0
+13:30:20.997 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+13:30:20.997 I [FormMain] 第二阶段加载用时：155 ms
+13:30:21.012 I <5 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+13:30:21.106 I [FormMain] 从设置更新背景图片与标题栏样式
+13:30:21.169 I [FormMain] 窗口已置顶，位置：(510, 245), 900 x 550
+13:30:21.169 I [FormMain] 第三阶段加载用时：65 ms
+13:30:21.169 I <7 · Animation> [ModAnimation] 动画线程开始
+13:30:21.184 I <11 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：D:\PCL\.minecraft\
+13:30:21.184 I <11 · Version Check> [PageLaunchLeft] 当前选择的 Minecraft 版本无效：null
+13:30:21.184 I <11 · Version Check> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Loading
+13:30:21.200 I <12 · L/Minecraft Instance List> [ModMinecraft] 当前选择的 Minecraft 版本：无
+13:30:21.200 I <12 · L/Minecraft Instance List> [ModMinecraft] 未找到可用 Minecraft 版本
+13:30:21.200 I <12 · L/Minecraft Instance List> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Finished
+13:30:21.216 I <11 · Version Check> [PageLaunchLeft] 无可用 Minecraft 版本
+13:30:21.247 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+13:30:21.247 I <13 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+13:30:21.294 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+13:30:21.294 I [PageLaunchLeft] 启动按钮：无 Minecraft 版本，要求下载
+13:30:21.309 I [MySkin] 载入头像成功：Loader Skin Legacy
+13:30:21.309 I [ModAnimation] 两个动画帧间隔 125 ms
+13:30:21.387 W <9 · 初始化> [ModJava] 初始化未找到可用的 Java，将自动触发搜索
+13:30:21.387 I <14 · W/JavaListRefreshWorker> [RedoableWorker] JavaListRefreshWorker：运行开始
+13:30:21.465 I <Async> [Java] Java 搜索完成，发现 0 个 Java
+13:30:21.465 I <14 · W/JavaListRefreshWorker> [RedoableWorker] JavaListRefreshWorker：运行成功
+13:30:21.512 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+13:30:21.512 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+13:30:21.512 I <22 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+13:30:21.512 I <22 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+13:30:21.512 I <23 · Telemetry> [ModMain] 匿名数据上报：启动
+13:30:21.528 I <20 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+13:30:21.544 I <21 · L/PCL 配置更新> [ModSecret] 已读取本地缓存的配置：38
+13:30:21.544 I <21 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+13:30:21.700 I <21 · L/PCL 配置更新> [ModSecret] 本地公告编号：230，服务器公告：230|414|413|6|38，无需更新
+13:30:21.700 I <21 · L/PCL 配置更新> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Finished
+13:30:21.903 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.19044.0，PCL 位置：D:\PCL\Plain Craft Launcher 2.exe
+13:30:21.950 I <20 · L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：432ms，可优先使用官方源
+13:30:21.950 I <20 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+13:30:22.637 I [MyRadioButton] 按下单选按钮：设置
+13:30:22.731 I [FormMain] 切换主要页面：Setup, -1
+13:30:23.871 I [MyListItem] 按下单选列表项：其他
+13:30:29.573 I [MyIconButton] 按下图标按钮：BtnTitleClose
+13:30:29.589 I [FormMain] 收到关闭指令
+13:30:29.823 I [FormMain] 程序已退出，返回值：Success

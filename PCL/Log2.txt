@@ -1,0 +1,69 @@
+13:30:05.868 I <4 · Logger> [Logger] 开始轮转日志文件
+13:30:05.899 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+13:30:05.930 I [Application] 程序版本：正式版 2.13.1.1 (408)
+13:30:05.930 I [Application] 识别码：D453-E60A-7E24-003B
+13:30:05.930 I [Application] 程序路径：D:\PCL\Plain Craft Launcher 2.exe
+13:30:05.930 I [Application] 系统编码：gb2312 (936, GBK=True)
+13:30:05.930 I [Application] 管理员权限：True
+13:30:05.930 I [Application] 第一阶段加载用时：85 ms
+13:30:06.008 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+13:30:06.024 I [ModSecret] 刷新主题：0
+13:30:06.071 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+13:30:06.071 I [FormMain] 第二阶段加载用时：135 ms
+13:30:06.086 I <5 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+13:30:06.180 I [FormMain] 从设置更新背景图片与标题栏样式
+13:30:06.227 I [FormMain] 窗口已置顶，位置：(510, 245), 900 x 550
+13:30:06.242 I [FormMain] 第三阶段加载用时：58 ms
+13:30:06.242 I <7 · Animation> [ModAnimation] 动画线程开始
+13:30:06.242 I <11 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：D:\PCL\.minecraft\
+13:30:06.258 I <11 · Version Check> [PageLaunchLeft] 当前选择的 Minecraft 版本无效：null
+13:30:06.258 I <11 · Version Check> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Loading
+13:30:06.274 I <12 · L/Minecraft Instance List> [ModMinecraft] 当前选择的 Minecraft 版本：无
+13:30:06.274 I <12 · L/Minecraft Instance List> [ModMinecraft] 未找到可用 Minecraft 版本
+13:30:06.274 I <12 · L/Minecraft Instance List> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Finished
+13:30:06.289 I <11 · Version Check> [PageLaunchLeft] 无可用 Minecraft 版本
+13:30:06.305 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+13:30:06.321 I <13 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+13:30:06.367 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+13:30:06.367 I [PageLaunchLeft] 启动按钮：无 Minecraft 版本，要求下载
+13:30:06.383 I [MySkin] 载入头像成功：Loader Skin Legacy
+13:30:06.383 I [ModAnimation] 两个动画帧间隔 125 ms
+13:30:06.461 W <9 · 初始化> [ModJava] 初始化未找到可用的 Java，将自动触发搜索
+13:30:06.477 I <14 · W/JavaListRefreshWorker> [RedoableWorker] JavaListRefreshWorker：运行开始
+13:30:06.539 I <Async> [Java] Java 搜索完成，发现 0 个 Java
+13:30:06.555 I <14 · W/JavaListRefreshWorker> [RedoableWorker] JavaListRefreshWorker：运行成功
+13:30:06.586 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+13:30:06.586 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+13:30:06.586 I <22 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+13:30:06.602 I <23 · Telemetry> [ModMain] 匿名数据上报：启动
+13:30:06.602 I <20 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+13:30:06.602 I <22 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+13:30:06.617 I <21 · L/PCL 配置更新> [ModSecret] 已读取本地缓存的配置：38
+13:30:06.617 I <21 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+13:30:06.805 I <21 · L/PCL 配置更新> [ModSecret] 本地公告编号：230，服务器公告：230|414|413|6|38，无需更新
+13:30:06.805 I <21 · L/PCL 配置更新> [ModSecret] 复制自身为最新正式版：版本号升高到 408
+13:30:06.805 I <21 · L/PCL 配置更新> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Finished
+13:30:06.961 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.19044.0，PCL 位置：D:\PCL\Plain Craft Launcher 2.exe
+13:30:07.039 I <20 · L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：440ms，可优先使用官方源
+13:30:07.039 I <20 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+13:30:07.321 I [MyRadioButton] 按下单选按钮：设置
+13:30:07.445 I [FormMain] 切换主要页面：Setup, -1
+13:30:07.461 I [ModAnimation] 两个动画帧间隔 110 ms
+13:30:08.195 I [MyListItem] 按下单选列表项：其他
+13:30:10.864 I [MyMsgText] 普通弹窗：警告
+13:30:10.864 I [MyMsgText] 若选择此项，即使在启动器将来出现严重问题时，你也无法获取更新并获得修复。
+13:30:10.864 I [MyMsgText] 例如，如果官方修改了登录方式，从而导致现有启动器无法登录，你可能就会因为无法更新而无法开始游戏。
+13:30:10.864 I [MyMsgText] 一般选择 仅在有重大漏洞更新时显示提示 就可以让你尽量不受打扰了。
+13:30:10.864 I [MyMsgText] 除非你在制作服务器整合包，或时常手动更新启动器，否则极度不推荐选择此项！
+13:30:11.806 I [MyButton] 按下按钮：我知道我在做什么
+13:30:11.822 I [ModMain] 普通弹框返回：1
+13:30:12.933 I [MyMsgText] 普通弹窗：警告
+13:30:12.933 I [MyMsgText] 若选择此项，即使在将来出现严重问题时，你也无法获取相关通知。
+13:30:12.933 I [MyMsgText] 例如，如果发现某个版本游戏存在严重 Bug，你可能就会因为无法得到通知而导致无法预知的后果。
+13:30:12.933 I [MyMsgText] 一般选择 仅在有重要通知时显示公告 就可以让你尽量不受打扰了。
+13:30:12.933 I [MyMsgText] 除非你在制作服务器整合包，或时常手动更新启动器，否则极度不推荐选择此项！
+13:30:13.717 I [MyButton] 按下按钮：我知道我在做什么
+13:30:13.717 I [ModMain] 普通弹框返回：1
+13:30:14.920 I [MyIconButton] 按下图标按钮：BtnTitleClose
+13:30:14.920 I [FormMain] 收到关闭指令
+13:30:15.155 I [FormMain] 程序已退出，返回值：Success
